@@ -99,8 +99,8 @@ Dengan sistem ini, Jaya Jaya Institute dapat mengambil langkah yang lebih proakt
    - Sebanyak 32.12% siswa mengalami dropout dari total 4424 siswa. Ini merupakan angka yang cukup signifikan dan perlu mendapat perhatian khusus.
 
 2. Faktor Demografis Memengaruhi Risiko Drop-out
-   - Jenis Kelamin: Mayoritas siswa adalah perempuan (64.83%), namun perbedaan drop-out antara laki-laki dan perempuan tidak signifikan secara eksplisit dan memerlukan analisis lanjutan.
-   - Status Internasional: Siswa lokal (97.51%) mendominasi, sementara siswa internasional sangat sedikit (2.49%), yang dapat menunjukkan kurangnya akses atau ketertarikan siswa asing terhadap institusi ini.
+   - Jenis Kelamin: Mayoritas mahasiswa yang melakukan dropout didominasi oleh laki-laki (64.2&), lebih banyak dibandingkan perempuan (35.2%).
+   - Status Internasional: mahasiswa lokal (90.6%) mendominasi, sementara mahasiswa internasional sangat sedikit (9.4%), yang dapat menunjukkan kurangnya akses atau ketertarikan siswa asing terhadap institusi ini.
 
 3. Kondisi Finansial Menjadi Pemicu Utama Drop-out
    - Debitur memiliki risiko drop-out lebih tinggi: dari data yang dianalisis, siswa berstatus Debtor dan menunggak biaya kuliah memiliki dropout rate hingga 87%.
@@ -112,9 +112,9 @@ Dengan sistem ini, Jaya Jaya Institute dapat mengambil langkah yang lebih proakt
 5. Akademik Semester Awal sebagai Indikator Awal Drop-out
    - Siswa dengan nilai rata-rata semester 1 di bawah 10 memiliki risiko tinggi tidak menyelesaikan pendidikan, terutama bila dikombinasikan dengan jumlah mata kuliah tanpa evaluasi > 4.
 
-6. Kursus dan Gender Berperan dalam Risiko Drop-out
-   - Program Keperawatan memiliki jumlah siswa tertinggi dengan dominasi perempuan.
-   - Program Teknologi Produksi Biofuel adalah yang terendah dan didominasi laki-laki — bisa menjadi fokus peningkatan minat dan dukungan.
+6. Program studi berperan dalam Risiko Drop-out
+   - Program studi Nursing memiliki jumlah mahasiswa tertinggi, namun program studi management yang memiliki jumlah mahasiswa dropout terbanyak.
+   - Program studi Basic Education mengalami mahasiswa dropout paling sedikit.
 
 ## ✅ Recommended Action Items
 Berdasarkan temuan di atas, berikut rekomendasi strategis yang dapat dilakukan oleh pihak institusi:
