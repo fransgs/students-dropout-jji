@@ -33,7 +33,7 @@ Untuk mengatasi masalah tingginya angka dropout dan membantu Jaya Jaya Institute
 ## 🔧 Preparation
 ### 📦 Data Sources
 - [Students' Performance Data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance)
-- [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/reporting/ba81dc45-cad3-40f6-bbc4-0fc38dc256ce)
+- [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/s/hADyFWXVnoY)
 - [Students' Dropout or Graduate Prediction](https://predict-student-performance.streamlit.app/)
 
 ### ⚙️ Setup Environment
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 
 ## Business Dashboard
-Jaya Jaya Institute [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/reporting/ba81dc45-cad3-40f6-bbc4-0fc38dc256ce) dirancang sebagai alat bantu visual yang interaktif dan informatif bagi para pengajar, manajemen, dan pemangku kepentingan internal institusi. Dashboard ini menyajikan insight penting terkait tren dropout mahasiswa, yang saat ini mencapai angka lebih dari 30%, serta memungkinkan pengguna untuk memahami faktor-faktor utama yang berkontribusi terhadap masalah tersebut.
+Jaya Jaya Institute [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/s/hADyFWXVnoY) dirancang sebagai alat bantu visual yang interaktif dan informatif bagi para pengajar, manajemen, dan pemangku kepentingan internal institusi. Dashboard ini menyajikan insight penting terkait tren dropout mahasiswa, yang saat ini mencapai angka lebih dari 30%, serta memungkinkan pengguna untuk memahami faktor-faktor utama yang berkontribusi terhadap masalah tersebut.
 ![Student Dropout Monitoring & Performance Dashboard](Dashboard.jpg)
 Melalui tampilan yang intuitif, pengguna dapat memantau metrik kunci seperti:
 - Distribusi status mahasiswa (Graduate, Enrolled, Dropout)
