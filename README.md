@@ -34,7 +34,7 @@ Untuk mengatasi masalah tingginya angka dropout dan membantu Jaya Jaya Institute
 ### 📦 Data Sources
 - [Students' Performance Data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance)
 - [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/reporting/ba81dc45-cad3-40f6-bbc4-0fc38dc256ce)
-- [Students' Dropout and Academic Success Prediction](https://www.kaggle.com/datasets/newtrax/predict-students-drop-out-and-academic-success)
+- [Students' Dropout or Graduate Prediction](https://predict-student-performance.streamlit.app/)
 
 ### ⚙️ Setup Environment
 
@@ -64,6 +64,7 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 Jaya Jaya Institute [Student's Dropout Monitoring & Performance Dashboard](https://lookerstudio.google.com/reporting/ba81dc45-cad3-40f6-bbc4-0fc38dc256ce) dirancang sebagai alat bantu visual yang interaktif dan informatif bagi para pengajar, manajemen, dan pemangku kepentingan internal institusi. Dashboard ini menyajikan insight penting terkait tren dropout mahasiswa, yang saat ini mencapai angka lebih dari 30%, serta memungkinkan pengguna untuk memahami faktor-faktor utama yang berkontribusi terhadap masalah tersebut.
+![Student Dropout Monitoring & Performance Dashboard](Dashboard.jpg)
 Melalui tampilan yang intuitif, pengguna dapat memantau metrik kunci seperti:
 - Distribusi status mahasiswa (Graduate, Enrolled, Dropout)
 - Korelasi antara status mahasiswa dengan faktor-faktor seperti status internasional, debtor, dan absensi
@@ -85,7 +86,7 @@ streamlit run students_performance_prediction.py
 
 ### ☁️ Akses Website Secara Online
 Sistem prediksi ini juga telah dideploy ke Streamlit Cloud, sehingga dapat diakses secara langsung melalui peramban (browser) tanpa perlu instalasi lokal.  
-🔗 Website [Students' Dropout and Academic Success Prediction](https://www.kaggle.com/datasets/newtrax/predict-students-drop-out-and-academic-success)
+🔗 Website [Students' Dropout or Graduate Prediction](https://predict-student-performance.streamlit.app/)
 memungkinkan pengguna untuk:
 - Memasukkan data atribut mahasiswa seperti status keuangan, kehadiran, status internasional, dll.
 - Mendapatkan prediksi status (Dropout atau Graduate).
@@ -132,4 +133,5 @@ Berdasarkan temuan di atas, berikut rekomendasi strategis yang dapat dilakukan o
 
 4. Teknologi dan Pemantauan Berkelanjutan
    - Implementasi Sistem Prediksi Drop-out: Terapkan sistem berbasis machine learning untuk memantau potensi drop-out secara real-time, yang dapat diintegrasikan dalam dashboard internal kampus.
-   - Filter Dashboard Berdasarkan Risiko: Tambahkan filter dinamis pada dashboard berdasarkan gender, program studi, status pembayaran, dan semester awal untuk membantu unit akademik dalam mengambil keputusan cepat.
+   - Filter Dashboard Berdasarkan Risiko: Menambahkan filter dinamis pada dashboard berdasarkan gender, program studi, status pembayaran, dan semester awal untuk membantu unit akademik dalam mengambil keputusan cepat dari pengembangan prediksi berbasis website [berikut ini](https://predict-student-performance.streamlit.app/).
+
